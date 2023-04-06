@@ -3,8 +3,8 @@
 ### `Reason Made`
 📢 vertical 웹서비스는 개인개발 스튜디오인 Songkail Studio에서 코딩을 공부하고 있는 Songkail 학생이 운영이 아닌 백엔드 개발과 학습을 목적으로 개발한 사이트입니다. 
 
-# `introduction`
-vertical 웹 서비스는 프론트엔드를 ReactJS로, 백엔드를 firebase로 구현하고, 코드는 GitHub 저장소에 저장하고, netlify와 GitHub 코드를 연결해 도메인을 생성해 만들어졌다.
+# introduction
+vertical 웹 서비스는 프론트엔드를 ReactJS로, 백엔드를 firebase로 구현하고, 코드는 GitHub 저장소에 저장하고, netlify와 GitHub 코드를 연결해 도메인을 생성해 만들어졌습니다.
 
 ### `Download on Windows`
 <a href="DOWNLOAD_LINK" download>
