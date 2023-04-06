@@ -46,7 +46,7 @@ function App() {
         ))}
       </div>
 
-      <a href='https://github.com/Songkail/Community'><div id="githubBtn-wrapper" style={{ width: "220px", height: "30px", position: "absolute", left: "5px", bottom: "25px"}}>
+      <a href='https://github.com/Songkail/vertical'><div id="githubBtn-wrapper" style={{ width: "220px", height: "30px", position: "absolute", left: "5px", bottom: "25px"}}>
         <div id="githubBtn-icon"></div>
         <span>GitHub Repository</span>
       </div></a>
