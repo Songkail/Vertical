@@ -82,6 +82,10 @@
   padding: 10px;
 }
 
+.content:hover {
+  background-color: #ccc;
+}
+
 #post-content {
   font-size: 16px;
 }
