@@ -80,6 +80,7 @@
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 10px;
+  transition: all 0.2s;
 }
 
 .content:hover {
