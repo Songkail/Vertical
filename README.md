@@ -6,11 +6,6 @@
 ###  `Introduction`
 vertical 웹 서비스는 프론트엔드를 ReactJS로, 백엔드를 firebase로 구현하고, 코드는 GitHub 저장소에 저장하고, netlify와 GitHub 코드를 연결해 도메인을 생성해 만들어졌습니다.
 
-### `Download on Windows`
-<a href="DOWNLOAD_LINK" download>
-  <img src="https://img.shields.io/badge/Download on Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
-</a>
-
 <!--
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
